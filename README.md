@@ -6,6 +6,8 @@
 
 This project is a clone of the FYERS website's home page. It was undertaken as part of my journey in learning front-end web development. The clone includes sections like navigation bar, hero section, features, learning, testimonials, trader talks, new section, subfooter, and footer. The goal was to replicate the design and layout of the FYERS website to practice HTML, CSS, and responsive design.
 
+DEMO ->  https://gulshanitsyou.github.io/FYERS/
+
 ## Project Highlights
 
 - Implemented a responsive navigation bar with links and logo.
