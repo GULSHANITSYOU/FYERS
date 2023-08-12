@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>telegram</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Component/Component---Footer" transform="translate(-313.000000, -255.000000)">
+            <g id="Group-5" transform="translate(124.000000, 62.000000)">
+                <g id="telegram" transform="translate(189.000000, 193.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                    <g id="Group-7" transform="translate(2.000000, 2.000000)">
+                        <circle id="Oval" fill="#436AF5" cx="10" cy="10" r="10"></circle>
+                        <g id="download" transform="translate(5.000000, 5.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                            <path d="M9.9830944,0.672470475 L8.16186025,7.90462897 C8.07618066,8.2452667 7.67974969,8.4207235 7.35484386,8.25898335 L5.05149915,7.11327163 L3.9623588,8.83013044 C3.66592596,9.29810048 2.91602447,9.09504765 2.91602447,8.54796281 L2.91602447,6.63495599 C2.91602447,6.4870185 2.98030829,6.34597653 3.09096448,6.24272972 L7.57980465,2.11401998 C7.57622285,2.0624361 7.51910409,2.01766637 7.46198436,2.05553593 L2.10544171,5.64766917 L0.305610565,4.75313477 C-0.115813902,4.54326315 -0.0979096958,3.9548726 0.337751269,3.77251099 L9.21191538,0.0462336212 C9.63681451,-0.132670935 10.0938785,0.235490756 9.98321988,0.672410029 L9.9830944,0.672470475 Z" id="Path"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>2A6C2E94-18C9-41FC-AAAE-E99E0E1144C0</title>
+    <g id="Home-Screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homescreen" transform="translate(-429.000000, -559.000000)">
+            <g id="Group-34" transform="translate(429.000000, 559.000000)">
+                <path d="M3,12 L21,12 L21,21 C21,22.6568542 19.6568542,24 18,24 L6,24 C4.34314575,24 3,22.6568542 3,21 L3,12 L3,12 Z" id="Rectangle" fill="#6988F7" style="mix-blend-mode: multiply;"></path>
+                <rect id="Rectangle" fill="#6988F7" style="mix-blend-mode: multiply;" x="0" y="8.55" width="24" height="3.6"></rect>
+                <polygon id="Polygon" fill="#FFBD36" style="mix-blend-mode: multiply;" points="13.35 0 17.0623106 1.5376894 18.6 5.25 17.0623106 8.9623106 13.35 10.5 9.6376894 8.9623106 8.1 5.25 9.6376894 1.5376894"></polygon>
+                <polygon id="Polygon-Copy-2" fill="#FFBD36" style="mix-blend-mode: multiply;" points="9.3 2.7 12.0577164 3.84228355 13.2 6.6 12.0577164 9.35771645 9.3 10.5 6.54228355 9.35771645 5.4 6.6 6.54228355 3.84228355"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
